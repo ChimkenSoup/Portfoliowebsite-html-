@@ -1,0 +1,27 @@
+              .image{
+                    height: 200px;
+                    width: 200px;
+                }
+                
+                body {
+                     background-color: #fefbd8;
+                    }
+
+
+                h1{
+                    color:#7AE2CF;
+                }
+
+                h2{
+                     color: #077A7D;
+                }
+                
+                h4{
+                    color:#077A7D;
+                }
+
+                p{
+                    font-family:Monaco;
+
+                    color:#06202B;
+                }
